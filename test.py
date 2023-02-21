@@ -1,0 +1,2 @@
+import discordbot
+discordbot.discordbot()
