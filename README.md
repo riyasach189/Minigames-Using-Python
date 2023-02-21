@@ -1,5 +1,5 @@
 # bonusprojectip
-This was the bonus project, created by [@ded-avishi](https://www.github.com/ded-avishi), [@riyasach189](https://www.github.com/riyasach189) and myself for out Introduction to Programming Course at Indraprastha Institute of Information Technology.
+This was the bonus project, created by [@ded-avishi](https://www.github.com/ded-avishi), [@surat-ss](https://www.github.com/surat-ss) and myself for out Introduction to Programming Course at Indraprastha Institute of Information Technology.
 # Intro
 We have created an arcade game machine, with the home screen created on Tkinter module on python by Prashi Jain.
 There are four clickable buttons.
